@@ -92,9 +92,6 @@ content:
 #         quote: >
 #           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-        Developed web applications and Android mobile apps, such as StreetSMART, Ladder Safety, and the Field Operations Guide.
-
-        Performed unit, acceptance, functional, regression, and automated testing of projects.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
