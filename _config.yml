@@ -22,7 +22,7 @@ darkmode: never
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-# linkedin_username: jekyll
+linkedin_username: leewjeffrey
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
@@ -45,10 +45,10 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: About Me
 # about_profile_image: images/profile.jpg
-# about_content: | # this will include new lines to allow paragraphs
-  
+about_content: | # this will include new lines to allow paragraphs
+  I am a Senior Software Developer at a software firm based in the Washington DC metro area.
 
 content:
 #   - title: Projects # Title for the section
@@ -79,8 +79,6 @@ content:
         # link_text: boringcompany.com
         sub_title: Senior Software Developer
         caption: November 2016 - Present
-#         quote: >
-#           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
         
       - layout: left
